@@ -1,12 +1,8 @@
-Sure! Here is the adapted README for a repository hosting a tutorial on setting up a Dual Boot with Windows 7 and Archlinux. I have included all necessary sections and links.
-
----
-
 # Tutoriel Dual Boot Windows 7 et Archlinux | Dual Boot Windows 7 and Archlinux Tutorial
 
 ## FR :
 
-Ce projet représente un tutoriel détaillé pour configurer un Dual Boot entre Windows 7 et Archlinux, réalisé durant notre première année de BUT Informatique à l'Université Paris-Est Créteil (UPEC). Ce tutoriel a été fait en collaboration avec [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/flavio-da-veiga-sanchez-carvalho/).
+Ce projet représente un tutoriel détaillé pour configurer un Dual Boot entre Windows 7 et Archlinux, réalisé durant notre première année de BUT Informatique à l'Université Paris-Est Créteil (UPEC). Ce tutoriel a été fait en collaboration avec [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/fl%C3%A1vio-carvalho-b182b326b/).
 
 ### Objectifs du Tutoriel
 
@@ -37,7 +33,7 @@ Ce projet représente un tutoriel détaillé pour configurer un Dual Boot entre 
 
 ## ENG :
 
-This project represents a detailed tutorial for setting up a Dual Boot between Windows 7 and Archlinux, created during our first year of the BUT Informatique program at the University Paris-Est Créteil (UPEC). This tutorial was done in collaboration with [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/flavio-da-veiga-sanchez-carvalho/).
+This project represents a detailed tutorial for setting up a Dual Boot between Windows 7 and Archlinux, created during our first year of the BUT Informatique program at the University Paris-Est Créteil (UPEC). This tutorial was done in collaboration with [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/fl%C3%A1vio-carvalho-b182b326b/).
 
 ### Tutorial Objectives
 
@@ -80,8 +76,8 @@ This project enabled us to acquire valuable skills in system administration, par
 
 ## Auteurs | Authors
 
-- [Nassim EL HADDAD](https://github.com/YourGitHubProfile)
-- [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/flavio-da-veiga-sanchez-carvalho/)
+- [Nassim EL HADDAD](https://www.linkedin.com/in/nassim-elhaddad/)
+- [Flavio DA VEIGA SANCHEZ CARVALHO](https://www.linkedin.com/in/fl%C3%A1vio-carvalho-b182b326b/)
 
 ---
 
@@ -98,8 +94,3 @@ This project enabled us to acquire valuable skills in system administration, par
 
 ---
 
-Feel free to clone, fork, or contribute to this repository to improve the tutorial or report any issues.
-
----
-
-This README should be placed in the root directory of your GitHub repository to provide clear and comprehensive information about the project and its objectives.
