@@ -83,7 +83,7 @@ This project enabled us to acquire valuable skills in system administration, par
 
 ### Dossier "Documentation" : Rapports et fichiers fournis durant le tutoriel.
 
-- Tutoriel.pdf : Guide détaillé pour le Dual Boot.
+- [BUT1 Info - Notice d'utilisation n°2] El Haddad Nassim - Da Veiga Sanches Carvalho Flavio -.pdf : Guide détaillé pour le Dual Boot.
 
 ### Liens Utiles | Useful Links
 
